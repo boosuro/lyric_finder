@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## React Project was created using the [MusixMatch API](https://github.com/musixmatch)
+
+## Commands
 
 First Run this to install all dependencies:
 
